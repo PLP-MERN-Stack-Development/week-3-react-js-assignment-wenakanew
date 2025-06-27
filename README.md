@@ -41,10 +41,9 @@ src/
 ```
 
 ## Deployment
-- Deploy to Vercel, Netlify, or GitHub Pages
-- Add your deployed URL below:
+- Deploy to Vercel.
 
-**Deployed URL:** _Add your deployed link here_
+**Deployed URL:** 
 
 ## Screenshots
 
